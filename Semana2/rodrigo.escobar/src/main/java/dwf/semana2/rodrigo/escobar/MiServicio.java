@@ -1,4 +1,4 @@
-package dwf.semana2.er222434;
+package dwf.semana2.rodrigo.escobar;
 
 import org.springframework.stereotype.Service;
 import java.util.ArrayList;
@@ -10,7 +10,7 @@ public class MiServicio {
     private final List<String> datos = new ArrayList<>();
 
     public MiServicio() {
-        // Datos iniciales corregidos
+        
         datos.add("Elemento 1");
         datos.add("Elemento 2");
     }

@@ -1,4 +1,4 @@
-package dwf.semana2.er222434;
+package dwf.semana2.rodrigo.escobar;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*; 
@@ -23,3 +23,4 @@ public class MiControlador {
         return "Dato agregado correctamente: " + nuevoDato;
     }
 }
+

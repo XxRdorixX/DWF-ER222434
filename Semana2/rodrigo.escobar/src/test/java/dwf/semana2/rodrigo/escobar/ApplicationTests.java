@@ -1,10 +1,10 @@
-package dwf.semana2.er222434;
+package dwf.semana2.rodrigo.escobar;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Er222434ApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
