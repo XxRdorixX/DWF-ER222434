@@ -1,0 +1,4 @@
+sv\edu\udb\repository\PostCommentRepositoryTest.class
+sv\edu\udb\service\mapper\PostCommentMapperTest.class
+sv\edu\udb\controller\PostCommentControllerTest.class
+sv\edu\udb\service\PostCommentServiceTest.class
